@@ -74,3 +74,76 @@ First playable version
  - Waystones [2.0.12](https://minecraft.curseforge.com/projects/waystones/files/2382349)
  - Weapon Case Loot [4.0.3](https://minecraft.curseforge.com/projects/weapon-case-loot/files/2400847)
  - XNet [1.2.0](https://minecraft.curseforge.com/projects/xnet/files/2405648)
+
+### Config changes
+
+This list contains config changes from the defaults.
+
+ - AgriCraft
+     - Remove grates
+     - Increased crop crossover chance
+     - Disable items dropping from raking
+     - Enable improving crops with only one "parent" crop
+     - Disable weeds
+     - Disable village greenhouses from world generation
+     - Remove resource crops (since we have Mystical Agriculture)
+     - Add mutations for cactus, sugarcane, nether wart and mushrooms
+ - Botania
+     - Removed flowers from world generation
+     - Removed glowing mushrooms from world generation
+ - Chance Cubes
+     - Set icosahedrons' chance value to be able to be anything (instead of just -100 or 100)
+     - Disable user specific rewards
+     - Disable "wither" reward
+ - Chest Transporter
+     - Only allow picking up spawners with obsidian and diamond transporters
+ - CodeChicken Core
+     - Disable automatic update checker
+ - Colossal Chests
+     - Disable analytics
+     - Disable automatic update checked
+     - Set maximum chest size to 16
+ - Crop Dusting
+     - Dusting pigs need to be names "Sika"
+ - Cyclops Core
+     - Disable analytics
+     - Disable automatic update checker
+ - Fake Blocks
+     - Disable automatic update checker
+ - Forge
+     - Disable automatic update checker
+     - Decrease bonus zombie spawning chance from 0.1 to 0.05
+     - Decrease baby zombie spawning chance from 0.05 to 0.02
+ - GraveStone Mod
+     - Disable automatic update checker
+     - Disable death note item
+ - Mystical Agriculture
+     - Increase the amount of supremum essence dropped by the Ender Dragon from 4 to 9
+     - Decrease the amount of inferium essence dropped by mobs from 20 to 10
+     - Disable Inferium Ore generation in all dimensions
+ - Quark
+     - Remove auto jump hotkey
+     - Disable endermen's ability to teleport players
+     - Disable food tooltip (we already have AppleSkin)
+     - Disable glass shards
+     - Decreased chances of blaze spawning anywhere in the Nether
+     - Disable mod generation of andesite, diorite and granite (i.e. keep vanilla behavior)
+     - Also disabled limestone and marble generation (they can be obtained by compressing bone blocks)
+     - Slightly increased chances of crystal caves spawning
+     - Disable basalt generation in the Nether
+ - Recurrent Complex
+     - Enable light-weight mode (server-only mode)
+ - Thermal Foundation
+     - Add Aluminum Ore to world generation (spawns in Y leves 8-48)
+ - Tiny Progressions
+     - Disable andesite, diorite and granite bricks (Quark already adds these)
+     - Disable Ender Ore
+     - Disable charcoal block (Quark already adds it)
+     - Disable stone torch (Tinkers' Construct already adds it)
+     - Enable vanilla wooden tools
+ - Translocators
+     - Disable automatic update checker
+ - Waystones
+     - Enable cooldown on global waystones
+     - Decrease teleport button cooldown from 300 to 90
+     - Decrease warp stone cooldown from 300 to 20
