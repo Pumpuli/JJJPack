@@ -1,6 +1,58 @@
 JJJ pack
 ========
 
+## 0.3.0
+
+### Mods added
+
+ - Mob Amputation [6.0.0](https://minecraft.curseforge.com/projects/mob-amputation/files/2348183)
+ - iChun Util [6.3.2](https://minecraft.curseforge.com/projects/ichunutil/files/2411088) (Required by Mob Amputation)
+
+### Mods Removed
+
+ - Crop Dusting
+
+### Mods updated
+
+ - AgriCraft [2.0.0-0.9.0-a16](https://minecraft.curseforge.com/projects/agricraft/files/2415205)
+ - Baubles [1.3.10](https://minecraft.curseforge.com/projects/baubles/files/2415265) (Required by Botania)
+ - BetterFPS [1.4.4](https://minecraft.curseforge.com/projects/betterfps/files/2415911)
+ - Chameleon [2.3.0](https://minecraft.curseforge.com/projects/chameleon/files/2419174) (Required by Storage Drawers)
+ - Chance Cubes [2.3.6.176](https://minecraft.curseforge.com/projects/chance-cubes/files/2413705)
+ - Chest Transporter [2.5.17](https://minecraft.curseforge.com/projects/chest-transporter/files/2416499)
+ - Chisel [0.0.10.22](https://minecraft.curseforge.com/projects/chisel/files/2408716)
+ - CodeChicken Lib 1.8+ [2.5.8.255](https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2410317)
+ - Colossal Chests [1.5.2](https://minecraft.curseforge.com/projects/colossal-chests/files/2413849)
+ - CompatLayer [1.5.2](https://minecraft.curseforge.com/projects/compatlayer/files/2415012) (Required by RFTools and XNet)
+ - Cyclops Core [0.10.3](https://minecraft.curseforge.com/projects/cyclops-core/files/2421830) (Required by Colossal Chests)
+ - DecoCraft [2.4.2](https://minecraft.curseforge.com/projects/decocraft2/files/2414541)
+ - EnderCore [0.4.1.66-beta](https://minecraft.curseforge.com/projects/endercore/files/2415996) (Required by Ender IO)
+ - Ender IO [3.1.183](https://minecraft.curseforge.com/projects/ender-io/files/2408751)
+ - Extra Utilities 2 [1.4.1](https://minecraft.curseforge.com/projects/extra-utilities/files/2410737)
+ - Fake Blocks [D1.2.5 bug fix](https://minecraft.curseforge.com/projects/fake-blocks/files/2407125)
+ - FoamFix [0.6.3 anarchy](https://asie.pl/Projects/Minecraft/Mods/FoamFix/)
+ - Iron Chests [7.0.12.801](https://minecraft.curseforge.com/projects/iron-chests/files/2413015)
+ - InfinityLib [0.9.0](https://minecraft.curseforge.com/projects/infinitylib/files/2415203) (Required by AgriCraft)
+ - IvToolkit [1.3.3](https://minecraft.curseforge.com/projects/ivtoolkit/files/2415975) (Required by Recurrent Complex)
+ - Just Enough Items [3.14.7.419](https://minecraft.curseforge.com/projects/just-enough-items-jei/files/2412009)
+ - More Chickens [1.1.3](https://minecraft.curseforge.com/projects/more-chickens/files/2412696)
+ - Mystical Agriculture [1.5.4](https://minecraft.curseforge.com/projects/mystical-agriculture/files/2423021)
+ - Recurrent Complex [1.3.1.1](https://minecraft.curseforge.com/projects/recurrent-complex/files/2420904)
+ - RFTools [6.01](https://minecraft.curseforge.com/projects/rftools/files/2420388)
+ - Storage Drawers [3.7.6](https://minecraft.curseforge.com/projects/storage-drawers/files/2419175)
+ - PlusTiC [4.3.2.0](https://minecraft.curseforge.com/projects/plustic/files/2415329)
+ - TorchMaster [1.2.2.25](https://minecraft.curseforge.com/projects/torchmaster/files/2414947)
+ - XNet [1.3.2](https://minecraft.curseforge.com/projects/xnet/files/2422079)
+
+### Config changes
+
+ - AgriCraft
+     - Add fertilized soil from Hatchery as a valid farmland
+ - Tinkers' Tool Leveling
+     - Reduce initial XP needed for leveling
+ - JourneyMap
+     - Disable analytics (maybe)
+
 ## 0.2.0
 
 First playable version
@@ -11,7 +63,7 @@ First playable version
  - AppleSkin [1.0.5](https://minecraft.curseforge.com/projects/appleskin/files/2362296)
  - AutoRegLib [1.0-2](https://minecraft.curseforge.com/projects/autoreglib/files/2327403) (Required by Quark)
  - B.A.S.E. [1.3.0](https://minecraft.curseforge.com/projects/b-a-s-e/files/2404018) (Required by Clumps)
- - Baconators [3.0.5](https://minecraft.curseforge.com/projects/appleskin/files/2362296)
+ - Baconators [1.0.5](https://minecraft.curseforge.com/projects/appleskin/files/2362296)
  - Baubles [1.3.9](https://minecraft.curseforge.com/projects/baubles/files/2375820) (Required by Botania)
  - Better Builder's Wands [0.11.1](https://minecraft.curseforge.com/projects/better-builders-wands/files/2394395)
  - BetterFPS [1.3.2](https://minecraft.curseforge.com/projects/betterfps/files/2310014)
